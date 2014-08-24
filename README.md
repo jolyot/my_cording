@@ -1,0 +1,3 @@
+提出用のcodeが3つあり、それぞれ、coffe_beans_prblem, fruits, nthdigitというディレクトリに入っています。
+coffe_beans_prblemは、『珠玉のプログラミング』という本に載っていた問題をシュミレートしました。
+fruits, nthdigitはcode iqに掲載されていたチャレンジ問題を解いてみました(どちらも解答未発表)。
