@@ -1,6 +1,6 @@
 # encordig: utf-8
 
-# ファイルから各行を読み取って配列にする
+# ファイルから各行を読みとって配列にする
 def get_lines(path)
   lines = []
   f = open(path)
