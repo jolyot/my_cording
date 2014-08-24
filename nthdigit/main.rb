@@ -1,4 +1,4 @@
-# encordig: utf-8
+# encodig: utf-8
 
 # ファイルから各行を読みとって配列にする
 def get_lines(path)
